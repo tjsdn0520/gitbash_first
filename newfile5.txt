@@ -1,7 +1,7 @@
-Jeongsunwoo
-정선우
+Hong gildong
+홍길동
 금오공과대학교
 computer engineering
-24
-male
+20
+female
 
